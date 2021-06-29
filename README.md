@@ -1,2 +1,2 @@
 # UpSee-Tipsy
-6D Robotic ARM with UP-Camera based Vision
+6D Robotic ARM Controller with UP-Camera based Vision
