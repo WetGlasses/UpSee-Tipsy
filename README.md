@@ -1,9 +1,9 @@
 # UpSee-Tipsy
 6D Robotic ARM Controller with UP-Camera based Vision
 
-##Implemented:  
+## Implemented:  
 
-###Vision:  
+### Vision:  
 
 1. UP-Camera calibration.  
 2. Distortion Correction.  
@@ -13,7 +13,7 @@
 6. Object localization. (In real-world)  
 
 
-###Manipulator:  
+### Manipulator:  
 
 1. Lower-level servo control using arduino.  
 2. Forward kinematics.  
